@@ -2,7 +2,7 @@
 
 This repository provides an implementation for the automatic selection of kernel parameters in the Kernel-based Conditional Independence (KCI) test.
 Given a predefined list of candidate kernel bandwidths, the method computes the estimated test power for all candidates in parallel and selects the kernels with the highest estimated power for the final conditional independence testing.
-For more details, please refer to “Optimal Kernel Choice for Score Function-based Causal Discovery” (ICML 2024)
+For more details, please refer to “Practical Kernel Selection for Kernel-based Conditional Independence Test” (NeurIPS 2025)
 .
 Dependencies: `pytorch 2.3.1, joblib 1.4.2, scipy~=1.14.1, scikit-learn~=1.5.2`
 
