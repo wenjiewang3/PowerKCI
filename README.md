@@ -13,19 +13,9 @@ First, run the requirements with `pip install -r requirements.txt`.
 You can run `python Main.sh` to test the codes. 
 
 ## Acknowledgments
-- Our implementation is highly based on the KCI implementation in causal discovery python package [pip link](https://github.com/py-why/causal-learn) and [ducoment link](https://causal-learn.readthedocs.io/en/latest/).
+- Our implementation is highly based on the KCI implementation in causal-learn package [pip link](https://github.com/py-why/causal-learn) and [ducoment link](https://causal-learn.readthedocs.io/en/latest/).
 
 If you find it useful, please consider citing: 
-```bibtex
-@inproceedings{
-wang2024optimal,
-title={Optimal Kernel choice for score function-based causal discovery},
-author={Wenjie Wang, Biwei Huang, Feng Liu, Xinge You, Tongliang Liu, Kun Zhang, Mingming Gong},
-booktitle={International conference on machine learning},
-year={2024},
-organization={PMLR}
-}
-```
 
 ```bibtex
 @inproceedings{zhang2011kernel,
